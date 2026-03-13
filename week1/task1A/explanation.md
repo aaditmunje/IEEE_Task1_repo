@@ -9,4 +9,6 @@ Key concepts I learned:
 
 5) Task 1.3 – Feature Engineering & Preprocessing: This used from sklearn.preprocessing import MinMaxScaler and Pandas. It taught me how learning models dont understand categories so we have to change it into numerical values and scaling to get accurate results.
 
-6) GITHUB - If im being honest i found github to be a little an noying with constant errors and changing branches, adding and commiting was a bit of a hassel. But i was able to complete it w the help of ChatGPT and push all the files to github using terminal commands.
+6) GITHUB - If im being honest i found github to be a little annoying with constant errors and changing branches, adding and commiting was a bit of a hassel. But i was able to complete it w the help of ChatGPT and push all the files to github using terminal commands.
+
+All in all i feel this first task taught me a kot of new things that i had no clue about. Ill admit i needed AI help for a lot of the tasks but i feel slowly after practicing continuosly i would be able to get better.
